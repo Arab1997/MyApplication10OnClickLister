@@ -1,0 +1,2 @@
+rootProject.name='MyApplication10OnClickLister'
+include ':app'
